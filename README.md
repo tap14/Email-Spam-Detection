@@ -25,3 +25,4 @@ Future Scope:<br>
 Explore advanced techniques like deep learning and natural language processing (NLP) for more robust spam detection. Consider implementing feedback mechanisms for continuous model enhancement and adaptation to evolving spam patterns.
 <br><br><br>
 The project intends to develop an efficient email spam detection system that may enhance user security and email communication by utilizing machine learning in conjunction with these processes.
+
