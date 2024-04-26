@@ -1,6 +1,6 @@
 # Email-Spam-Detection
 
-Project Title: Email Spam Detection using Machine Learning
+Project Title: Email Spam Detection
 
 Objective:
 The main goal of this project is to develop an AI system capable of automatically classifying emails into spam or non-spam categories. By leveraging machine learning techniques, the system aims to enhance email filtering and security, thereby improving user experience and reducing the risk of malicious attacks.
